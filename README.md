@@ -6,11 +6,12 @@
 # Tutorial
 
 - Sign Up
-- Masukkan Nama 
-- Masukkan Username (acak)
-- Masukkan Password (acak)
-- Masukkan E-mail Address (acak)
+1. Masukkan Nama 
+2. Masukkan Username (acak)
+3. Masukkan Password (acak)
+4. Masukkan E-mail Address (acak)
+5. Tampilan akan terautomatisasi ke menu sign in
 
 - Sign in
-- sesuaikan data sesuai isi sign up
-- klik login (selesai)
+1. sesuaikan data sesuai isi sign up
+2. klik login (selesai)
